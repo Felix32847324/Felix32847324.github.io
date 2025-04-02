@@ -8,7 +8,9 @@
         #reasontwo {color: green;}
         #reasonthree {color: brown;}
         .reasons {font-size: 150px}
+        .reasons {font-weight: 150px}
             h1 {color:white;}
+            h1 {font-style: Roman}
             body {background-color: rgb(237, 202, 237);}
         </style>
     </head>
